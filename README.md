@@ -4,7 +4,7 @@ Android开源UI框架库分类，找出最常用，最实用的UI组件。
 ![Project status](art/awesome-android-ui.png)
 
 ##Index
-* [Material](pages/Material.md)
+* [Material](pages/Material.md#materialdesignlibrary)
 * [Layouts](#layouts)
 * [List/Grid Views](#grid_views)
 * [View Pagers](#text_views)
