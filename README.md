@@ -20,3 +20,10 @@ Android开源UI框架库分类，找出最常用，最实用的UI组件。
 * [Animations](pages\animations.md)
 * [Blur Effects](pages\blur_effects.md)
 * [Other](pages/other.md)
+
+## Reference
+*  [android-arsenal](https://android-arsenal.com/)
+*  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
+*  [wasabeef awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
+
+<a href="#index" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-libraries/master/art/ic_arrow.png" align="right"/></a>
