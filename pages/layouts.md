@@ -1,6 +1,6 @@
 #index
 * [AndroidSwipeLayout](#androidswipelayout)
-* [AndroidViewHover](#androidviewHover)
+* [AndroidViewHover](#androidviewhover)
 
 ##[AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
 [代码家](https://github.com/daimajia)出品，滑动Layout，支持单个View，ListView，GridView  
@@ -14,3 +14,5 @@
 ![](https://camo.githubusercontent.com/44affb72f0688c213500917009a1680b41492413/687474703a2f2f7777322e73696e61696d672e636e2f6d773639302f36313064633033346a7731656a356969686a746c35673230387a3066326e70642e676966)
 
 <a href="#index" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-libraries/master/art/ic_arrow.png" align="right"/></a>
+
+#end
