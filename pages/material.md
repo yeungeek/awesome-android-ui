@@ -1,7 +1,7 @@
 # Index
 * [MaterialDesignLibrary](#materialdesignlibrary)
 * [MaterialDrawer](#materialdrawer)
-* [MaterialNavigationDrawer](#materialnavigationdrawer)ldrawer
+* [MaterialNavigationDrawer](#materialnavigationdrawer)
 * [LDrawer](#ldrawer)
 * [Material Menu](#material-menu)
 * [DrawerArrowDrawable](#drawerarrowdrawable)

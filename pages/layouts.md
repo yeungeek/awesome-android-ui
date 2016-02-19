@@ -1,7 +1,7 @@
 #index
 * [AndroidSwipeLayout](#androidswipelayout)
 * [AndroidViewHover](#androidviewhover)
-* [AndroidSwipeLayout](android)
+* [AndroidSwipeLayout](#androidswipeLayout)
 
 ##[AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
 [代码家](https://github.com/daimajia)出品，滑动Layout，支持单个View，ListView，GridView  
