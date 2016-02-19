@@ -22,7 +22,7 @@ Android开源UI框架库分类，找出最常用，最实用的UI组件。
   * [SwipeRefreshLayout](pages/pull_to_refresh.md#swiperefreshlayout)
   * [BGARefreshLayout-Android](pages/pull_to_refresh.md#bgarefreshlayout-android)
 * [View Pagers](pages/view_pagers.md)
-* [Menus](pages/view_pagers.m
+* [Menus](pages/view_pagers.md)
 * [Image Views](pages/image_views.md)
 * [Text Views](pages/text_views.md)
 * [Tip Views](pages/tip_views.md)
