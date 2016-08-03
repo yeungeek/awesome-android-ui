@@ -17,6 +17,7 @@
 ## [Twoway View](https://github.com/lucasr/twoway-view)
 多种模式的RecycleView布局
 ![](https://github.com/lucasr/twoway-view/raw/master/images/sample.png)
+
 __Features:__
 * A LayoutManager base class that greatly simplifies the development of custom layouts for RecyclerView
 * A collection of feature-complete stock layouts including:
@@ -102,23 +103,23 @@ __Features:__
 ![](https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif)
 
 ## [Sticky Headers Recyclerview](https://github.com/timehop/sticky-headers-recyclerview)
-Sticky Header库，目前已经不维护了
+Sticky Header库，目前已经不维护了  
 ![](https://camo.githubusercontent.com/2712b977a781964db02085035e43281773ab4ffa/687474703a2f2f692e696d6775722e636f6d2f49307a746f50772e676966)
 
 ## [StickyHeaders](https://github.com/ShamylZakariya/StickyHeaders)
-另一款RecycleView Sticky Header库。
+另一款RecycleView Sticky Header库。  
 ![](https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-callbacks.gif)
 
 ## [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
-ViewPager的完美替代品
+ViewPager的完美替代品  
 ![](https://github.com/lsjwzh/RecyclerViewPager/raw/master/fragment.gif)
 
 ## [XRecyclerView](https://github.com/jianghejie/XRecyclerView)
-整合下拉刷和加载更多的RecycleView
+整合下拉刷和加载更多的RecycleView  
 ![](https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif)
 
 ## [RecyclerView FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
-RecycleView divider的实现
+RecycleView divider的实现  
 ![](https://github.com/yqritc/RecyclerView-FlexibleDivider/raw/master/sample/sample2.gif)
 
 ## [Android Parallax Recyclerview](https://github.com/kanytu/android-parallax-recyclerview)
