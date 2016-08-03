@@ -15,6 +15,7 @@ Android开源UI框架库分类，找出最常用，最实用的UI组件。
   * [AndroidSwipeLayout](pages/layouts.md#androidswipelayout)
   * [AndroidViewHover](pages/layouts.md#androidviewhover)
   * [AndroidSwipeLayout](pages/layouts.md#androidswipeLayout)
+* [Recycler Views][pages/recycler_views.md]
 * [List/Grid Views](pages/list-grid_views.md)
 * [Pull To Refresh](pages/pull_to_refresh.md)
   * [Android-PullToRefresh](pages/pull_to_refresh.md#android-pulltorefresh)
