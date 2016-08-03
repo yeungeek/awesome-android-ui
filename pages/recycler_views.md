@@ -123,7 +123,7 @@ RecycleView divider的实现
 ![](https://github.com/yqritc/RecyclerView-FlexibleDivider/raw/master/sample/sample2.gif)
 
 ## [Android Parallax Recyclerview](https://github.com/kanytu/android-parallax-recyclerview)
-有视觉错位的RecycleView
+有视觉错位的RecycleView  
 ![](https://raw.githubusercontent.com/kanytu/android-parallax-recycleview/master/screenshots/parallaxtoolbar.gif)
 
 ## [RecyclerViewFastScroller](https://github.com/danoz73/RecyclerViewFastScroller)
